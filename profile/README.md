@@ -4,7 +4,9 @@
 
 ## Github Sub-Organizations
 The following Github organizations are part of CZ Biohub San Francisco's Github presence:
+
 [Loic Royer's Team](https://github.com/royerlab)
+
 [Computational Microscopy Platform](https://github.com/mehta-lab)
 
 ## Contact us!
